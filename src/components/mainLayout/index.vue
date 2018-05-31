@@ -10,6 +10,9 @@
       <li class="nav-item">
         <router-link class="nav-link" :to="{ name: '-error' }">错误页面</router-link>
       </li>
+      <li class="nav-item">
+        <router-link class="nav-link" :to="{ name: 'pages' }">测试页面</router-link>
+      </li>
     </ul>
     <router-view />
   </div>
