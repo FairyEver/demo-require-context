@@ -4,6 +4,10 @@
 
 另一个关于 require.context 的示例 [d2admin 的自动注册 svg 图标到图标组件功能](https://github.com/FairyEver/d2admin-vue-element/blob/master/src/assets/icons/index.js)
 
+也可以使用在大量 mixin 需要注册到一个组件的情况
+
+demo 只作为抛砖引玉，require.context 的其它实用使用方式欢迎大家补充
+
 ## Build Setup
 
 ``` bash
