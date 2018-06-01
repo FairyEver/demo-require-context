@@ -2,6 +2,8 @@
 
 本项目演示  require.context 如何帮助开发者更方便地开发 vue 项目
 
+> 示例的自动注册路由方法在实际项目中可能并没有太大的实用性，依项目复杂度而定
+
 另一个关于 require.context 的示例 [d2admin 的自动注册 svg 图标到图标组件功能](https://github.com/FairyEver/d2admin-vue-element/blob/master/src/assets/icons/index.js)
 
 demo 只作为抛砖引玉，欢迎大家补充
