@@ -8,6 +8,19 @@
 
 demo 只作为抛砖引玉，require.context 的其它实用使用方式欢迎大家补充
 
+## preview
+
+![index](https://raw.githubusercontent.com/FairyEver/demo-require-context/master/doc/image/index.png)
+
+![user](https://raw.githubusercontent.com/FairyEver/demo-require-context/master/doc/image/user.png)
+
+![pages](https://raw.githubusercontent.com/FairyEver/demo-require-context/master/doc/image/pages.png)
+
+![error](https://raw.githubusercontent.com/FairyEver/demo-require-context/master/doc/image/error.png)
+
+![mixin](https://raw.githubusercontent.com/FairyEver/demo-require-context/master/doc/image/mixin.png)
+
+
 ## Build Setup
 
 ``` bash
