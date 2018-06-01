@@ -21,9 +21,6 @@
 </template>
 
 <script>
-export const router = {
-  //
-}
 export default {
   name: 'pages'
 }

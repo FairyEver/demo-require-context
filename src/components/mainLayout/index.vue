@@ -13,6 +13,9 @@
       <li class="nav-item">
         <router-link class="nav-link" :to="{ name: 'pages' }">测试页面</router-link>
       </li>
+      <li class="nav-item">
+        <router-link class="nav-link" :to="{ name: 'demo-mixin' }">自动注册 mixin</router-link>
+      </li>
     </ul>
     <router-view />
   </div>
