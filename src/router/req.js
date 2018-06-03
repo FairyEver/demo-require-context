@@ -4,9 +4,10 @@ import _replace from 'lodash.replace'
 
 export default (publicPath, req) => req.keys().map(req).map(page => {
   const path = _replace(_path.dirname(page.default.__file), publicPath, '')
+  const name = path.split(_path.sep).join('-')
   return {
     path: `${path}${_get(page, 'router.pathSuffix', '')}`,
-    name: path.split('/').join('-'),
+    name,
     ...page.router,
     component: page.default
   }
