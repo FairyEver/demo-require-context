@@ -8,6 +8,8 @@
 
 demo 只作为抛砖引玉，欢迎大家补充
 
+注意：本 demo 仅在 posix 型系统下有效，比如 macOS，Windows 用户需要修改代码
+
 ## preview
 
 ![index](https://raw.githubusercontent.com/FairyEver/demo-require-context/master/doc/image/index.png)
